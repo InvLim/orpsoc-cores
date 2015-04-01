@@ -85,8 +85,3 @@ src_files =
 tb_src_files =  bench/or1200_monitor.v
 tb_include_files = bench/or1200_monitor_defines.v
 
-[provider]
-name = github
-user = openrisc
-repo = or1200
-cachable = false
